@@ -1,8 +1,13 @@
-# ─── ❖ ── ✦ ── ❖ ───
-# 🎏 Konnichiwa! Zen here~ ✨
-# ─── ❖ ── ✦ ── ❖ ───
+╭────────────────────────────────────────╮
+│   ⛩️  Welcome to my space ── @findzenpeace   │
+╰────────────────────────────────────────╯
 
-> **"Manifesting clean code, aesthetic vibes, and absolute peace of mind (静心)."** 🍵✨
+<p align="center">
+  <img src="https://files.catbox.moe/r81xu2.jpg" alt="Zen Calligraphy Logo" width="180px">
+</p>
+
+
+> **"Manifesting clean code, aesthetic vibes, and absolute peace of mind."** 🍵✨
 
 Hey there, fellas! Welcome to my digital space. Just a Gen Z developer navigating through life, beautiful layouts, and infinite coding loops. Lowkey obsessed with Japanese zen minimalism mixed with Jennie’s main character energy. 🖤💖
 
@@ -17,7 +22,7 @@ Hey there, fellas! Welcome to my digital space. Just a Gen Z developer navigatin
 ---
 
 ### 🛠️ My Toolbox (ツール)
-Here's how I build my digital garden (you can change these badges later!):
+Here's how I build my digital garden:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -28,7 +33,8 @@ Here's how I build my digital garden (you can change these badges later!):
 ---
 
 ### 🎵 Current Playlist / Vibe
-🎧 **JENNIE - Mantra / Solo**
+🎧 **Click to listen to my Zen & Jennie Vibes:**
+[**zen like this ♡.. ── 🎶 YouTube Music Playlist**](https://music.youtube.com/playlist?list=PL5iL14ywDWSBRzxFgzZ-xKapcfPsNbNJB&si=r-UUIx7Xa0-N9QEJ)
 > *"It just hits different when your mind is at peace (静心) and your code actually runs on the first try."* 😉
 
 ---
