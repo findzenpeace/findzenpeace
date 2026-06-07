@@ -42,7 +42,7 @@ Here's how I build my digital garden:
 ### 🌐 Let's Connect! (よろしく)
 * 🌍 **Web Space:** [findzen.vercel.app](https://findzen.vercel.app)
 * ✉️ **Drop an Email:** [findzen.peace@email.com](mailto:findzen.peace@email.com)
-* 📸 **Instagram:** [@ismailnuotdn](https://instagram.com/ismailnuotdn)
+* 📸 **Instagram:** [@findzenpeace](https://instagram.com/findzenpeace)
 
 ---
 <p align="center">
